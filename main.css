@@ -3,12 +3,16 @@ body
 	background-color: #2F3336;
 	color: #efefef;
     font-family: 'Lato', sans-serif;
-    font-size: 17px;
+	font-size: 17px;
+	background-image: url("img/computer2.jpg");
+	opacity: 1;
+	color: black;
 }
 
 .content
 {
 	text-align: center;
+	
 }
 
 .content img
@@ -32,6 +36,8 @@ body
 .row
 {
 	padding-top: 30px;
+	background-color: #F9F9F9;
+	opacity: 0.90;
 }
 
 #zdjecie

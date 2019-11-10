@@ -55,5 +55,5 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-github-circled:before { content: '\f09b'; font-size: 76px; padding-top: 40px; color: white} /* '' */
-.icon-linkedin:before { content: '\f0e1'; font-size: 76px; padding-top: 40px; color: white} /* '' */
+.icon-github-circled:before { content: '\f09b'; font-size: 76px; padding-top: 40px; color: black} /* '' */
+.icon-linkedin:before { content: '\f0e1'; font-size: 76px; padding-top: 40px; color: black} /* '' */
