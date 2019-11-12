@@ -12,7 +12,6 @@ body
 .content
 {
 	text-align: center;
-	
 }
 
 .content img
@@ -20,8 +19,6 @@ body
 	width: 100%;
 	height: auto;
 }
-
-
 
 .navbar
 {
@@ -40,11 +37,11 @@ body
 	opacity: 0.90;
 }
 
-#zdjecie
+#photo
 {
-  animation-name: photo;
-  animation-duration: 2s;  
-  animation-fill-mode: both;
+  	animation-name: photo;
+  	animation-duration: 2s;  
+  	animation-fill-mode: both;
 }
 
 @keyframes photo {
